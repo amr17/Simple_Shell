@@ -1,0 +1,12 @@
+Parent id 7038 
+Parent id 7038 
+Parent id 7038 
+Parent id 7038 
+child process terminate id 7044
+Parent id 10084 
+Parent id 10084 
+Parent id 10084 
+Parent id 10084 
+child process terminate id 10085
+Parent id 10084 
+child process terminate id 10085
